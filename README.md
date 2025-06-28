@@ -70,17 +70,17 @@ Task 3 : Perform a Basic Vulnerability Scan on Your PC.
 
 * **Screenshot 1:** Overview of 25 vulnerabilities on host `192.168.1.44`
 * 
-  ![image](https://github.com/user-attachments/assets/9d6a6cb9-9e6a-4cfa-a518-ff8acdcb12b1)
+  ![image](https://github.com/user-attachments/assets/b79bdcda-1f5c-4f67-ae4c-ad13b61dede1)
+
 
 * **Screenshot 2:** Extended list including port scan and TLS issues
 
-![image](https://github.com/user-attachments/assets/c2caa02b-4235-4331-bc4b-231026ab5b1e)
+![image](https://github.com/user-attachments/assets/44854238-0359-440d-ad7a-a101de9c94b1)
 
 
 * **Screenshot 3:** Additional INFO findings like OS/service enumeration
 
-![image](https://github.com/user-attachments/assets/1def0e56-fb6a-4d44-9356-c647af3f9f7e)
-
+![image](https://github.com/user-attachments/assets/65696ab0-7758-4b24-abdd-695b0780043c)
 
 ---
 
